@@ -1,0 +1,3 @@
+../source/app/App.c:76:6:App_Init	8	static
+../source/app/App.c:99:6:App_Run	16	static
+../source/app/App.c:235:6:resetState	16	static
